@@ -1,0 +1,1 @@
+ printf("The Random number is %d ",number);
